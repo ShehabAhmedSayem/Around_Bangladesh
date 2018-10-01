@@ -1,6 +1,6 @@
 # Around Bangladesh
 
-A website made with raw php and mysql database. It is mainly a helpful guide for tour loving people who want to explore the beauty of Bangladesh. 
+A website made with raw php and mysql database. It is mainly a helpful guide for tour loving people who want to explore the beauty of Bangladesh. This is the academic project of Database Lab Course.
 
 ## Description
 
