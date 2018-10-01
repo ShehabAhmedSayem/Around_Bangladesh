@@ -1,5 +1,7 @@
 # Around Bangladesh
 
+A website made with raw php and mysql database. It is mainly a helpful guide for tour loving people who want to explore the beauty of Bangladesh. 
+
 ## Description
 
 We live in the most beautiful country of the world. We have lots of tourist spots where we can spend our leisure time for refreshment.
